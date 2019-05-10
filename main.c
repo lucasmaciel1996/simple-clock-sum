@@ -4,7 +4,7 @@
 int main()
 {
       //secord,minute,hour,day,month,year
-        #define MILISEGUNDO 100
+        #define MILISEGUNDO 1000
         int secord=0;
         int minute= 1;
         int hour = 1;
