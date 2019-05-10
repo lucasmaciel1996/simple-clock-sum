@@ -7,7 +7,7 @@ int main()
         #define MILISEGUNDO 1000
         int secord=0;
         int minute= 1;
-        int hour = 1;
+        int hour = 0;
         int day = 1;
         int month =1;
         int year =2000;
@@ -30,7 +30,7 @@ int main()
                                year++;
                                month=1;
                             }
-                          day = 0;     
+                          day = 1;     
                         }
                         hour = 0 ;
                     }
